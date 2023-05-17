@@ -1,0 +1,1068 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2023-05-17T00:21:10.741-04:00
+  initializedAtString: 2023-05-17T00:21:06.522-04:00
+  entries:
+  - path: MarioClone64\Assets\Plugins.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ArtifactDB
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\06\061a2d8e3acae35b0f2f64227d2c52d6
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\06\061a2d8e3acae35b0f2f64227d2c52d6
+    projectPath: Library\Artifacts\06\061a2d8e3acae35b0f2f64227d2c52d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\0f\0fa4b817260287463b831d0a5ce7e971
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\0f\0fa4b817260287463b831d0a5ce7e971
+    projectPath: Library\Artifacts\0f\0fa4b817260287463b831d0a5ce7e971
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\10\104a95f4a53c0b8a02d429f4f350648a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\10\104a95f4a53c0b8a02d429f4f350648a
+    projectPath: Library\Artifacts\10\104a95f4a53c0b8a02d429f4f350648a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\15\151b3d1d369b0109d9246b43d54d5d24
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\15\151b3d1d369b0109d9246b43d54d5d24
+    projectPath: Library\Artifacts\15\151b3d1d369b0109d9246b43d54d5d24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\1c\1c0a1200250dd22f09625926fc720e9d
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\1c\1c0a1200250dd22f09625926fc720e9d
+    projectPath: Library\Artifacts\1c\1c0a1200250dd22f09625926fc720e9d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\2e\2eb18f3459313d808eda0ebf874b461a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\2e\2eb18f3459313d808eda0ebf874b461a
+    projectPath: Library\Artifacts\2e\2eb18f3459313d808eda0ebf874b461a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\2e\2ec6e126df5db456f0014deef96e8de2
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\2e\2ec6e126df5db456f0014deef96e8de2
+    projectPath: Library\Artifacts\2e\2ec6e126df5db456f0014deef96e8de2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\31\31d92a397f10aacdaa62268b14010113
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\31\31d92a397f10aacdaa62268b14010113
+    projectPath: Library\Artifacts\31\31d92a397f10aacdaa62268b14010113
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\3c\3c9f798df10bd02b9ec561ee33315d54
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\3c\3c9f798df10bd02b9ec561ee33315d54
+    projectPath: Library\Artifacts\3c\3c9f798df10bd02b9ec561ee33315d54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\46\4657bbf38e2beadc7634bca630047bee
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\46\4657bbf38e2beadc7634bca630047bee
+    projectPath: Library\Artifacts\46\4657bbf38e2beadc7634bca630047bee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\50\504f5a43f87d2bd3cc1c2a34a4934097
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\50\504f5a43f87d2bd3cc1c2a34a4934097
+    projectPath: Library\Artifacts\50\504f5a43f87d2bd3cc1c2a34a4934097
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\57\5779ea40a5dc35a5978b76b3df9799da
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\57\5779ea40a5dc35a5978b76b3df9799da
+    projectPath: Library\Artifacts\57\5779ea40a5dc35a5978b76b3df9799da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\6e\6e9e35c57fa7fded227c4d1fd6c7bb57
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\6e\6e9e35c57fa7fded227c4d1fd6c7bb57
+    projectPath: Library\Artifacts\6e\6e9e35c57fa7fded227c4d1fd6c7bb57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\82\8207ea2f14fb8d1c424b240bb36c52fa
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\82\8207ea2f14fb8d1c424b240bb36c52fa
+    projectPath: Library\Artifacts\82\8207ea2f14fb8d1c424b240bb36c52fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\8a\8aaf00b0b90e59aa80cf480914a95c3f
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\8a\8aaf00b0b90e59aa80cf480914a95c3f
+    projectPath: Library\Artifacts\8a\8aaf00b0b90e59aa80cf480914a95c3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\8a\8af8f016c66c3d7d8fd4c6ad26a125c6
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\8a\8af8f016c66c3d7d8fd4c6ad26a125c6
+    projectPath: Library\Artifacts\8a\8af8f016c66c3d7d8fd4c6ad26a125c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\8d\8d2eb159ab8a0d7db48f99c0fd6c7514
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\8d\8d2eb159ab8a0d7db48f99c0fd6c7514
+    projectPath: Library\Artifacts\8d\8d2eb159ab8a0d7db48f99c0fd6c7514
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\9d\9dcb8589ec4010441c689579984a4c31
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\9d\9dcb8589ec4010441c689579984a4c31
+    projectPath: Library\Artifacts\9d\9dcb8589ec4010441c689579984a4c31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\a1\a11dd37a1689921f292f33e6e8d6ca57
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\a1\a11dd37a1689921f292f33e6e8d6ca57
+    projectPath: Library\Artifacts\a1\a11dd37a1689921f292f33e6e8d6ca57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\a5\a553de8107e0b2aa411402e60ffa69bc
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\a5\a553de8107e0b2aa411402e60ffa69bc
+    projectPath: Library\Artifacts\a5\a553de8107e0b2aa411402e60ffa69bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\a7\a71507dbc651fa8673445ab80fc1be5b
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\a7\a71507dbc651fa8673445ab80fc1be5b
+    projectPath: Library\Artifacts\a7\a71507dbc651fa8673445ab80fc1be5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\af\afe1355d6d9e92e31342a2ec5b867341
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\af\afe1355d6d9e92e31342a2ec5b867341
+    projectPath: Library\Artifacts\af\afe1355d6d9e92e31342a2ec5b867341
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\b3\b395c4da6bc1b58d2a1e5e9a60da5edd
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\b3\b395c4da6bc1b58d2a1e5e9a60da5edd
+    projectPath: Library\Artifacts\b3\b395c4da6bc1b58d2a1e5e9a60da5edd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\b8\b8f46def6e228777a030b2d21b30395e
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\b8\b8f46def6e228777a030b2d21b30395e
+    projectPath: Library\Artifacts\b8\b8f46def6e228777a030b2d21b30395e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\b9\b9c12fb715ee7ed0c5897f40d6819fd7
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\b9\b9c12fb715ee7ed0c5897f40d6819fd7
+    projectPath: Library\Artifacts\b9\b9c12fb715ee7ed0c5897f40d6819fd7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\c1\c1a12db8e80240ce5b4d746f8c5fe418
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\c1\c1a12db8e80240ce5b4d746f8c5fe418
+    projectPath: Library\Artifacts\c1\c1a12db8e80240ce5b4d746f8c5fe418
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\d9\d9acac4f6ec0ae916e8e01a24339b9ff
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\d9\d9acac4f6ec0ae916e8e01a24339b9ff
+    projectPath: Library\Artifacts\d9\d9acac4f6ec0ae916e8e01a24339b9ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\e2\e250d6547c8abefa0f857801df037682
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\e2\e250d6547c8abefa0f857801df037682
+    projectPath: Library\Artifacts\e2\e250d6547c8abefa0f857801df037682
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\e3\e380c60fcd235d8ffd79696be24e1a8b
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\e3\e380c60fcd235d8ffd79696be24e1a8b
+    projectPath: Library\Artifacts\e3\e380c60fcd235d8ffd79696be24e1a8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\f1\f10fb5bbb18b95bcae54abf471549d4a
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\f1\f10fb5bbb18b95bcae54abf471549d4a
+    projectPath: Library\Artifacts\f1\f10fb5bbb18b95bcae54abf471549d4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\f2\f23ea625719aae97887bd208d3544e54
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\f2\f23ea625719aae97887bd208d3544e54
+    projectPath: Library\Artifacts\f2\f23ea625719aae97887bd208d3544e54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE.dag.outputdata
+    projectPath: Library\Bee\1900b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\1900b0aE.dag_fsmtime
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE.dag_fsmtime
+    projectPath: Library\Bee\1900b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\backend_profiler0.traceevents
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\backend_profiler0.traceevents
+    projectPath: Library\Bee\backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\backend_profiler1.traceevents
+    projectPath: Library\Bee\backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\fullprofile.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\fullprofile.json
+    projectPath: Library\Bee\fullprofile.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\tundra.digestcache
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\tundra.log.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\EditorInstance.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\Search\transactions.db
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\SourceAssetDB
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Logs\AssetImportWorker1.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MarioClone64\Temp\FSTimeGet-09eaf39a60bbd9743a74928f523822f4
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\FSTimeGet-09eaf39a60bbd9743a74928f523822f4
+    projectPath: Temp\FSTimeGet-09eaf39a60bbd9743a74928f523822f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Temp\ProcessJobs\b8613a84801a46c691ba1681b66ddf56.layout
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\ProcessJobs\b8613a84801a46c691ba1681b66ddf56.layout
+    projectPath: Temp\ProcessJobs\b8613a84801a46c691ba1681b66ddf56.layout
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Temp\ProcessJobs\e1c40a49625f049b378639bdb79dcbbd.bakert
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\ProcessJobs\e1c40a49625f049b378639bdb79dcbbd.bakert
+    projectPath: Temp\ProcessJobs\e1c40a49625f049b378639bdb79dcbbd.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Temp\ProcessJobs\ebfd096a911eacb0e73036b97cc3bd74.bakeil
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\ProcessJobs\ebfd096a911eacb0e73036b97cc3bd74.bakeil
+    projectPath: Temp\ProcessJobs\ebfd096a911eacb0e73036b97cc3bd74.bakeil
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Temp\UnityLockfile
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MarioClone64\Temp\workerlic
+    fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\mario64clone\MarioClone64\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
